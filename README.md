@@ -46,4 +46,28 @@ Combining my RStudio with the Git repo for easy commits. Working on finalizing f
 
 Met with the group to discuss our current functionalities and to-dos for our next steps. Working on documentation.
 
+#### Jan 31
+
+Working on functions
+
+#### Feb 1
+
+Finished functions, committed to main branch. Working on testing and error handling.
+
 ### Week 4: Feb 6 - 9
+
+#### Feb 6
+
+Practicing Presentation
+
+#### Feb 7
+
+Presentation date
+
+#### Feb 8
+
+Last minute work on the project.
+
+#### Feb 9
+
+Final due date. Handing in project.
