@@ -54,6 +54,22 @@ Working on functions
 
 Finished functions, committed to main branch. Working on testing and error handling.
 
+#### Feb 2
+
+Working on presentation template / workflow.
+
+#### Feb 3
+
+Ensuring inline comments and documentation is all in order.
+
+#### Feb 4
+
+Finishing slides for my parts and the joint parts.
+
+#### Feb 5
+
+Working out presentation text and demonstration (who is doing what, how will it work, etc.)
+
 ### Week 4: Feb 6 - 9
 
 #### Feb 6
